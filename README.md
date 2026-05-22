@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/about.png" alt="🐾 About" height="55" />
+  <img src="./assets/about.png" alt="🐾 About" height="66" />
 </p>
 
 ```yaml
@@ -30,25 +30,29 @@ kyoung9:
 ---
 
 <p align="center">
-  <img src="./assets/skills_inventory.png" alt="🧰 Skills Inventory" height="80" />
+  <img src="./assets/skills_inventory.png" alt="🧰 Skills Inventory" height="100" />
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></td>
-      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </td>
     </tr>
     <tr>
-      <td colspan="4" align="center">
+      <td align="center">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" />
       </td>
     </tr>
@@ -58,7 +62,7 @@ kyoung9:
 ---
 
 <p align="center">
-  <img src="./assets/research.png" alt="🔬 Research" height="60" />
+  <img src="./assets/research.png" alt="🔬 Research" height="70" />
 </p>
 
 <p align="center">
@@ -68,7 +72,7 @@ kyoung9:
 ---
 
 <p align="center">
-  <img src="./assets/github_stats.png" alt="📊 GitHub Stats" height="90" />
+  <img src="./assets/github_stats.png" alt="📊 GitHub Stats" height="60" />
 </p>
 
 <div align="center">
@@ -95,7 +99,7 @@ kyoung9:
 ---
 
 <p align="center">
-  <img src="./assets/connect_portal.png" alt="🔗 Connect Portal" height="58" />
+  <img src="./assets/connect_portal.png" alt="🔗 Connect Portal" height="73" />
 </p>
 
 <p align="center">
