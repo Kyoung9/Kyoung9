@@ -30,9 +30,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung9&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Kyoung9&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 <h3 class="pixel-title">CONNECT.PORTAL</h3>
 
