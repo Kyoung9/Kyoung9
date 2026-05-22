@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/main-banner.png" width="100%" alt="Kyoung9's GitHub" />
-
-<br/>
-
 [![Hackathon Winner Banner](./assets/hack-1.png)](https://student.redesigner.jp/portfolios/PF82b29f7d8c738912ce7e5edaad1b6103)
 
 <br/>
