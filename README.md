@@ -41,17 +41,15 @@ kyoung9:
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" />
       </td>
@@ -81,14 +79,14 @@ kyoung9:
       <td>
         <img
           src="https://github-readme-stats.shion.dev/api?username=Kyoung9&theme=tokyonight&hide_border=true&bg_color=00000000"
-          height="165"
+          height="200"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
           src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kyoung9&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-          height="165"
+          height="200"
           alt="Top Languages"
         />
       </td>
