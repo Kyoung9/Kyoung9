@@ -18,10 +18,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kyoung9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung9&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kyoung9&theme=tokyonight&hide_border=true&background=00000000)
 
