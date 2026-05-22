@@ -2,18 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Kyoung9%20%7C%20Pixel%20Dev&fontAlign=50&fontAlignY=40&color=0:0f0f1a,100:1b1b2f&fontColor=66ffcc&animation=fadeIn)
 
-```text
-██╗  ██╗██╗   ██╗ ██████╗ ██╗   ██╗███╗   ██╗ ██████╗  █████╗
-██║ ██╔╝╚██╗ ██╔╝██╔═══██╗██║   ██║████╗  ██║██╔════╝ ██╔══██╗
-█████╔╝  ╚████╔╝ ██║   ██║██║   ██║██╔██╗ ██║██║  ███╗███████║
-██╔═██╗   ╚██╔╝  ██║   ██║██║   ██║██║╚██╗██║██║   ██║██╔══██║
-██║  ██╗   ██║   ╚██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║
-╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
-### `> booting profile... done`
-
-`Frontend` `Backend` `Problem Solving` `Build, Break, Learn`
+![Profile Views](https://komarev.com/ghpvc/?username=Kyoung9&label=PROFILE+VIEWS&color=1abc9c&style=for-the-badge)
 
 <br/>
 
